@@ -82,6 +82,9 @@ If it is running too fast or too slow you'll see the screen flash periodically w
 ### Tested Functionality
 All supported C-64 video modes and most demo tricks have been tested on both PAL and NTSC machines. However, there is a massive library of software for the C-64 and inevitably there will be some display bugs. If you find an example, please open an issue and provide steps to reproduce. 
 
+## Source Code
+ISEVIC is written in Verilog and I intend to release the source code in a future update.
+
 ## Releases
 ### V1.0: Initial release
 - Support for PAL/NTSC "new" VIC chips, NTSC "old" and Drean are explicitly disabled and will show a red screen
