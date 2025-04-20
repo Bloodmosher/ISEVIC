@@ -1,0 +1,7 @@
+Ref,Val,Package,PosX,PosY,Rot,Side
+"C5","100nF","C_0805_HandSoldering",84.467700,-115.138200,180.000000,bottom
+"C6","100nF","C_0805_HandSoldering",84.632800,-123.075700,0.000000,bottom
+"R1","10K","R_0805",68.542200,-117.793100,90.000000,bottom
+"R2","10K","R_0805",71.641000,-117.793100,90.000000,bottom
+"U4","Si5351A-B-GT","MSOP-10_3x3mm_P0.5mm",77.851000,-118.872000,0.000000,bottom
+"Y1","Crystal_GND24","Oscillator_SMD_Abracon_ASE-4pin_3.2x2.5mm",78.371700,-124.904500,0.000000,bottom
