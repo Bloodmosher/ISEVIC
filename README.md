@@ -48,7 +48,7 @@ The EasyFlash 3 is an example found to be more sensitive, e.g. some games failed
 - For updating the bitstream on Mac and Linux, use [OpenFPGALoader](https://github.com/trabucayre/openFPGALoader)
     - Mac users with [Homebrew](https://brew.sh/) can just type `brew install openfpgaloader` in the Terminal to install it
     - For updating using OpenFPGALoader:
-        - Download the [isevic_tn20k_v1_0.fs](Boards/Tang_Nano_20K/Bitstream/isevic_tn20k_v1_0.fs) bitstream file by right-clicking on the link and choosing *Save Link As...*
+        - Download the [isevic_tn20k_v1_0.fs](Boards/Tang_Nano_20K/Bitstream/isevic_tn20k_v1_0.fs) bitstream file by navigating to the link and then choosing *Download raw file*
         - Open the Mac Terminal or Linux shell and `cd` into the directory where you've saved the `isevic_tn20k_v1_0.fs` file
         - Make sure you've connected the Tang Nano 20K module via USC-C to your Mac or Linux computer
         - Run `openfpgaloader -b tangnano20k -f isevic_tn20k_v1_0.fs`
