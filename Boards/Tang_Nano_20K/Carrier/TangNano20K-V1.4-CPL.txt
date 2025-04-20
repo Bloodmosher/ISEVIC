@@ -1,0 +1,26 @@
+Designator	Mid X	Mid Y	Layer	Rotation
+C1	59.8678mm	-157.7086mm	Top	270
+C2	66.3575mm	-147.5740mm	Top	270
+C3	88.0110mm	-143.8021mm	Top	270
+C4	112.0775mm	-143.6370mm	Top	270
+C5	84.4677mm	-115.1382mm	Bottom	0
+C6	84.6328mm	-123.0757mm	Bottom	0
+U1	61.5188mm	-150.2029mm	Top	270
+U2	77.9864mm	-144.1831mm	Top	0
+U3	101.9864mm	-144.1831mm	Top	0
+U4	77.8510mm	-118.8720mm	Bottom	90
+J1	105.6640mm	-117.9830mm	Top	90
+J2	63.8810mm	-130.7592mm	Top	0
+J3	63.8810mm	-110.4392mm	Top	0
+J4	57.7977mm	-121.1834mm	Top	0
+J5	60.3504mm	-100.9523mm	Top	0
+R1	68.5422mm	-117.7931mm	Bottom	90
+R2	71.6410mm	-117.7931mm	Bottom	90
+Y1	78.3717mm	-124.9045mm	Bottom	180
+				
+				
+				
+				
+				
+				
+				

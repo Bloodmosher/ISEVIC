@@ -1,0 +1,12 @@
+Comment	Designator	Footprint	JLCPCB Part #?optional?
+CL21B105KBFNFNE (1uF)	"C1,C2"	C0805	C318709
+C0805C104J1REC7210 (100nF)	"C3,C4,C5,C6"	C0805	C2215541
+TLV74333PDBVR	U1	SOT-23-5	C408972
+SN74CBTD16211DGGR	"U2,U3"	TSSOP-56_6.1x14mm_P0.5mm	C2674790
+WingTAT S-44L-2.54-5	J5	"Edge Connector Plugin,P=2.54mm,44P"	C9900143422
+2.54mm Spacing 20p Single row pin socket	"J2,J3"	2.54mm Spacing 20p Single row pin socket	C5439675
+2.54mm Spacing 2p Single row pin header	J4	 2.54mm Spacing 2p Single row pin header	C2915055
+2.54mm Spacing 3p Single row pin header Right Angle	J1	 2.54mm Spacing 3p Single row pin header Right Angle	C5517745
+ABM8G-25.000MHZ-4Y-T3	Y1	SMD3225-4P	C596914
+SI5351A-B-GTR	U4	MSOP10	C5451727
+RT0805BRB0710KL	"R1,R2"	R0805	C864029
