@@ -18,7 +18,7 @@
 - NTSC "old" and Drean machines are NOT supported at this time
 - Core runs on the multiple FPGA devices
 - Tang Nano 20K carrier board gerbers and bitstream are included in this repo
-- **Does not yet work with the Reloaded MK2 motherboard**, look for a future core update to address
+- **Reloaded MK2 motherboard is not currently supported**
 
 ### Display Devices
 - Modern OLED monitors and TVs work really well. Game mode can also give an extra silky feel to scrolling images.
@@ -92,4 +92,4 @@ ISEVIC is written in Verilog and I intend to release the source code in a future
 - Known Issues
     - The loading progress bar on Super Mario Bros incorrectly shows a leading black line as the bar moves from left to right.
     - When using the Easy Flash 3 in the pass through port, some programs fail to load.
-    - **Does not yet work with the Reloaded MK2 motherboard**, look for a future core update to address
+
