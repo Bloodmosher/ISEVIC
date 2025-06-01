@@ -5,7 +5,7 @@
 [![Watch the first "teaser" video](https://img.youtube.com/vi/a9VlOROTK9U/0.jpg)](https://www.youtube.com/watch?v=a9VlOROTK9U)
 
 ### And then a more in-depth introductory video:
-[![And then a more in-depth introductory video](https://img.youtube.com/vi/-8Uv11p1W8Q/0.jpg)](https://www.youtube.com/watch?v=-8Uv11p1W8Q)
+[![And then a more in-depth introductory video](https://img.youtube.com/vi/JXMrSmDUt7Y/0.jpg)](https://www.youtube.com/watch?v=JXMrSmDUt7Y)
 
 ## Getting Started
 - You'll need a Tang Nano 20K board with headers like [this](https://www.amazon.com/dp/B0C5XJV83K) flashed with the provided bitstream plus the ISEVIC carrier board for the C-64 cartridge slot (see below).
