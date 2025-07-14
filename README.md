@@ -1,12 +1,6 @@
 # ISEVIC - Integrated System for Enhancing VIC Output
 ### ISEVIC is an FPGA core for enabling digital video via HDMI on the C-64. It works by watching the bus on the cartridge port. It then translates those signals into a picture for display. It can run on multiple FPGA platforms including the Tang Nano 20K described here.
 
-### Watch the first "teaser" video here:
-[![Watch the first "teaser" video](https://img.youtube.com/vi/a9VlOROTK9U/0.jpg)](https://www.youtube.com/watch?v=a9VlOROTK9U)
-
-### And then a more in-depth introductory video:
-[![And then a more in-depth introductory video](https://img.youtube.com/vi/pUL5m-21Lx0/0.jpg)](https://www.youtube.com/watch?v=pUL5m-21Lx0)
-
 ## Getting Started
 - You'll need a Tang Nano 20K board with headers like [this](https://www.amazon.com/dp/B0C5XJV83K) flashed with the provided bitstream plus the ISEVIC carrier board for the C-64 cartridge slot (see below).
 - **For correct operation, three additional wires must be run from the CPU (_CHAREN, _HIRAM, _LORAM on pins 27, 28, 29) to the carrier board.**
