@@ -9,10 +9,10 @@
 
 ### Watch the first "teaser" video here:
 
-[![Watch the first "teaser" video](https://i.vimeocdn.com/video/2036870194-33a4fede85be22788c4acd222b545694e15d7aa83c0965e87af504e18ff92f0d-d_295x166?region=us)](https://vimeo.com/1101398429)
+[![Watch the first "teaser" video](https://i.vimeocdn.com/video/2036870194-33a4fede85be22788c4acd222b545694e15d7aa83c0965e87af504e18ff92f0d-d_640)](https://vimeo.com/1101398429)
 
 ### And then a more in-depth introductory video:
-[![And then a more in-depth introductory video](https://i.vimeocdn.com/video/2036881838-9e5232b16cd510ce9c5d65b487882c39777ad13ab531733aa7b31e77866e5398-d_295x166?region=us)](https://vimeo.com/1101406860)
+[![And then a more in-depth introductory video](https://i.vimeocdn.com/video/2036881838-9e5232b16cd510ce9c5d65b487882c39777ad13ab531733aa7b31e77866e5398-d_640)](https://vimeo.com/1101406860)
 
 
 ### Supported Hardware
