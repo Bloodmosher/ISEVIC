@@ -8,12 +8,10 @@
 - Use Dupont wires like [these](https://www.amazon.com/dp/B07GCZV4BS) (make sure they are long enough to route outside the board), with IC mini grabbers like [these](https://www.amazon.com/dp/B08V1HFHRY) or similar.
 
 ### Watch the first "teaser" video here:
-
-[![Watch the first "teaser" video](https://i.vimeocdn.com/video/2036870194-33a4fede85be22788c4acd222b545694e15d7aa83c0965e87af504e18ff92f0d-d_640)](https://vimeo.com/1101398429)
+[![Watch the first "teaser" video](https://img.youtube.com/vi/a9VlOROTK9U/0.jpg)](https://www.youtube.com/watch?v=a9VlOROTK9U)
 
 ### And then a more in-depth introductory video:
-[![And then a more in-depth introductory video](https://i.vimeocdn.com/video/2036881838-9e5232b16cd510ce9c5d65b487882c39777ad13ab531733aa7b31e77866e5398-d_640)](https://vimeo.com/1101406860)
-
+[![And then a more in-depth introductory video](https://img.youtube.com/vi/pUL5m-21Lx0/0.jpg)](https://www.youtube.com/watch?v=pUL5m-21Lx0)
 
 ### Supported Hardware
 - PAL and NTSC "new" with automatic detection
