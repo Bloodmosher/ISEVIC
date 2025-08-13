@@ -46,7 +46,8 @@ The EasyFlash 3 is an example found to be more sensitive, e.g. some games failed
 - The power select jumper on the Tang Nano 20K carrier board allows powering the device via USB but most users will have no need for this. 
 - **Never connect USB with the jumper installed, you will send +5V into your C-64.**
 - S1 and S2 buttons on the Tang Nano 20K provide access to the on-screen debug/calibration tool and reset of the C-64.
-- For updating the bitstream on Mac and Linux, use [OpenFPGALoader](https://github.com/trabucayre/openFPGALoader)
+- **The BL616 firmware on your Tang Nano 20K most likely needs to be re-flashed to a supported version**, [follow the instructions here](./Docs/BL616_Firmware.md) before proceeding with the below.
+- For updating the Isevic bitstream on Mac and Linux, use [OpenFPGALoader](https://github.com/trabucayre/openFPGALoader)
     - Mac users with [Homebrew](https://brew.sh/) can just type `brew install openfpgaloader` in the Terminal to install it
     - For updating using OpenFPGALoader:
         - Download the [isevic_tn20k_v1_0.fs](Boards/Tang_Nano_20K/Bitstream/isevic_tn20k_v1_0.fs) bitstream file by navigating to the link and then choosing *Download raw file*
